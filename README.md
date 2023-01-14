@@ -1,14 +1,1 @@
-# aqa-code
-Код с лекций Автоматизация тестирования
-
-1. [x] [Основы автоматизации](basics/)
-1. [x] [Тестирование API, CI](api-ci/)
-1. [x] [Тестирование веб-интерфейсов](web/)
-1. [x] [Selenide](selenide/)
-1. [x] [Patterns](patterns/)
-1. [x] [BDD](bdd/)
-1. [X] [Docker](docker/)
-1. [x] [SQL](sql/)
-1. [x] [Reporting](reporting/)
-1. [ ] [Summary](summary/)
-
+![image](https://user-images.githubusercontent.com/113407046/212244361-8e0b1cd2-a35a-45a5-83a5-dcb4324ac765.png)
